@@ -1,0 +1,13 @@
+[
+ {
+  "app_name": "erpnext",
+  "custom": 0,
+  "docstatus": 0,
+  "doctype": "Module Def",
+  "modified": "2025-09-09 15:19:49.435585",
+  "module_name": "Hayyu",
+  "name": "Hayyu",
+  "package": null,
+  "restrict_to_domain": null
+ }
+]

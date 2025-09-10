@@ -9,6 +9,7 @@ fixtures = [
     {"dt": "Report", "filters": [["module","=","Hayyu"]]},
     {"dt": "Server Script", "filters": [["module","=","Hayyu"]]},
     {"dt": "Workspace", "filters": [["type", "!=", ""],["module","=","Hayyu"]]},
+    {"dt": "Module Def", "filters": [["module_name","=","Hayyu"]]},
 ]
 
 # Apps
