@@ -5,6 +5,12 @@ app_description = "Hayyu for ERPNext"
 app_email = "support@venturo.id"
 app_license = "mit"
 
+fixtures = [
+    {"dt": "Report", "filters": [["module","=","Hayyu"]]},
+    {"dt": "Server Script", "filters": [["module","=","Hayyu"]]},
+    {"dt": "Workspace", "filters": [["type", "!=", ""],["module","=","Hayyu"]]},
+]
+
 # Apps
 # ------------------
 
